@@ -1,4 +1,5 @@
-## About this projecy
+## About this project
+
 This project is to help with monitoring, recording and management of symptoms for chronic pain sufferers. Whether you have a back injury, leg injury from playing sport or arthritis, it can affect all kinds of people at all points in their lives. In the last few years treatment has shifted from focusing just on medication(tablets, painkillers etc) to exercises and cognitive behavioural therapies to help people stuck on long term medication. There are many monitoring apps on the market, however, few have considered integration or a requirement for voice and integration with other applications and connected services. Voice is important as many particularly older people struggle with visual apps. In the UK many older people are buying Alexa devices for example because they are cheap and easier to use than an expensive new mobile phone. Integrations are also important as many users have varying requirements: Diet, other exercises, other medications. Users often also have apps they already are using and want to integrate these with the new solution.
 
 Integrations for mobile and web apps and voice apps will all be an increasing trend over the next few years.
